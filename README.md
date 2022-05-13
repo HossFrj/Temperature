@@ -1,4 +1,4 @@
-<p>Summary:
+<p>
 You will build a temperature control app where users can increment/decrement temperature and the background color changes based on temperature.
 
 Topics covered:
